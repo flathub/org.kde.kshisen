@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/libkdegames-24.08.2.tar.xz",
-                    "sha256": "ea7d92daa7119b8d30c3bc5e8200992ad20b76092e5896501cb8782617478042",
+                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/libkdegames-24.08.3.tar.xz",
+                    "sha256": "6bcb2e0c6737f9b8a946e9d0b974164fb05b4165632bb59743fb19e04dbf94ee",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/libkmahjongg-24.08.2.tar.xz",
-                    "sha256": "a063a076e5e401c2fa5f46974bc1c6ac05ebcac1287b2a75e5348089c964ae1a",
+                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/libkmahjongg-24.08.3.tar.xz",
+                    "sha256": "f5b716f5cbcda4dce161d90fd9a97de4917ef9725404b20e262de1b38f976fb7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -59,8 +59,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/kshisen-24.08.2.tar.xz",
-                    "sha256": "8be7958d70d7ad7992f62cf6ce9b6985564a4b2b60d117e9656a4cf4b30d754a",
+                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/kshisen-24.08.3.tar.xz",
+                    "sha256": "fbdd6e62db1fc060a405ed1593c9e11449bf4e3370b5b35efc273f0280112546",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
